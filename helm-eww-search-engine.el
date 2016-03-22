@@ -12,7 +12,8 @@
     ("Yahoo" . "https://search.yahoo.com/search?p=")
     ("Bing" . "http://www.bing.com/search?q=")
     ("Yandex" . "http://www.yandex.com/yandsearch?text=")
-    ("Baidu" . "http://www.baidu.com/s?wd="))
+    ("Baidu" . "http://www.baidu.com/s?wd=")
+    ("Github" . "https://github.com/search?ref=reposearch&q="))
   "helm eww search engine engines list"
   :type 'list
   :group 'helm)
